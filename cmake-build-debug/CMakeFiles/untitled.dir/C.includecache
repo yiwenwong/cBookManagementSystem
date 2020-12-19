@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yiwenwong/CLionProjects/untitled/adminMenu.c
+adminMenu.h
+/Users/yiwenwong/CLionProjects/untitled/adminMenu.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+bookFile.h
+/Users/yiwenwong/CLionProjects/untitled/bookFile.h
+
+/Users/yiwenwong/CLionProjects/untitled/adminMenu.h
+
+/Users/yiwenwong/CLionProjects/untitled/book.h
+adminMenu.h
+/Users/yiwenwong/CLionProjects/untitled/adminMenu.h
+
+/Users/yiwenwong/CLionProjects/untitled/bookFile.h
+book.h
+/Users/yiwenwong/CLionProjects/untitled/book.h
+
